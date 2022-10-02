@@ -4,13 +4,13 @@ Apolo es un bot multipropósito completamente en Español con el que podrás hac
 
 ### 🎧 Música
 
-## • La mejor calidad de audio.
+# • La mejor calidad de audio.
 
-## • Reproduce el video o canción que desees.
+# • Reproduce el video o canción que desees.
 
-## • Roles de DJ
+# • Roles de DJ
 
-## • Guarda tus Listas de Reproducción favoritas
+# • Guarda tus Listas de Reproducción favoritas
 
 
 ### 🎭Roleplay
